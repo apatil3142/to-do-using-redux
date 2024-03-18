@@ -1,0 +1,22 @@
+.main{
+  background-color: antiquewhite;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todosContainer{
+  width: 50%;
+  height: 60vh;
+  background-color: #FFF;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.card-container{
+  width: 100px;
+  height: 100px;
+  background-color: azure;
+}

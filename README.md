@@ -4,7 +4,7 @@ This project is developed for learning purpose and go through some Redux concept
 
 ## Main features of this projects are
 1. Using Redux to effectively manage state.
-2. Using redux-persist to maintain state event after refreshing the page.
+2. Using redux-persist to maintain state even after refreshing the page.
 3. Created Modal component using react portal.
 
 
